@@ -1,0 +1,14 @@
+[package]
+name = "rustqoicli"
+version = "0.0.1"
+edition = "2021"
+authors = ["musicalskele"]
+license-file = "../LICENSE.md"
+description = "a simple rust qoi encoding/decoding program"
+readme = "../README.md"
+repository = "https://github.com/musicalskele/rustqoi"
+
+[dependencies]
+clap = "4.5.27"
+image = "0.25.5"
+rustqoi = {path = "../rustqoi"}

@@ -1,0 +1,9 @@
+[package]
+name = "rustqoi"
+version = "0.0.1"
+edition = "2021"
+authors = ["musicalskele"]
+license-file = "../LICENSE.md"
+description = "a simple rust implementation of the Quite OK Image (QOI) format"
+readme = "../README.md"
+repository = "https://github.com/musicalskele/rustqoi"
