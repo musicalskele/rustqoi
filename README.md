@@ -33,7 +33,7 @@ rustqoi image.qoi
 ```
 this will generate `image.png`.  
 
-### specifying an output File  
+### specifying an output file  
 ```sh
 rustqoi meow.png woof.qoi
 ```
